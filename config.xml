@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/GeforceNowLauncher" version="1.0.0" viewmodes="fullscreen">
+    <access origin="geforcenow.com" subdomains="true"></access>
+    <tizen:allow-navigation>geforcenow.com *.geforcenow.com</tizen:allow-navigation>
+    <tizen:application id="eTg1POgH1N.BasicProject" package="eTg1POgH1N" required_version="2.3"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <icon src="icon.png"/>
+    <name>GeforceNowLauncher</name>
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="disable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
