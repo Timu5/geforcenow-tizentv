@@ -7,3 +7,7 @@ Run Geforce NOW on Tizen TV.
 # Status
 
 Work in Progress
+
+Runs on real tv hardware, but after clicking login button redirects to built in webbrowser and hangs to white screen after login.
+
+Currently only mouse and keybooard works.
